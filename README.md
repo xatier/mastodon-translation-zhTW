@@ -47,4 +47,8 @@ open 開啟
 new 新增
 add 新增
 news 最新消息
+appeal 申訴
+reject 駁回 / 回絕
+approve 批准 / 核准
+account 帳號
 ```
