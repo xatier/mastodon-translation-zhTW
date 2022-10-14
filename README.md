@@ -51,4 +51,6 @@ appeal 申訴
 reject 駁回 / 回絕
 approve 批准 / 核准
 account 帳號
+social network 社群網路
+social media 社群媒體
 ```
