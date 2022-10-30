@@ -57,6 +57,7 @@ news 最新消息
 appeal 申訴
 reject 駁回 / 回絕
 approve 批准 / 核准
+revoke 註銷
 account 帳號
 social network 社群網路
 social media 社群媒體
@@ -74,6 +75,9 @@ announcement 公告
 visitor 訪客
 pin 釘選
 theme 佈景主題
+content warning 內容警告
+two-factor authentication 兩階段驗證
+recovery code 備用驗證碼
 ```
 
 ## 常見不一致翻譯
@@ -91,4 +95,5 @@ theme 佈景主題
 帳戶 -> 帳號
 你 -> 您
 名單 -> 列表 (depends)
+個人資料 -> 個人檔案
 ```
