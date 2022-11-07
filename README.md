@@ -78,6 +78,8 @@ theme 佈景主題
 content warning 內容警告
 two-factor authentication 兩階段驗證
 recovery code 備用驗證碼
+disable 停用
+enable 啟用
 ```
 
 ## 常見不一致翻譯
