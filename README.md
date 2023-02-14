@@ -99,3 +99,7 @@ enable 啟用
 名單 -> 列表 (depends)
 個人資料 -> 個人檔案
 ```
+
+Note: [Elk](https://github.com/elk-zone/elk)
+[prefers](https://github.com/elk-zone/elk/pull/1617) using `你` over `您`,
+avoid using `您` when contributing to Elk.
