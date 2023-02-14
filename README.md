@@ -22,7 +22,7 @@ reblog 轉嘟
 retoot 轉嘟
 boost 轉嘟
 hashtag 主題標籤
-trend 熱門
+trend 熱門 / 熱門趨勢
 trending 熱門
 mention 提及
 favourite 最愛
@@ -45,8 +45,8 @@ profile 個人檔案
 profile picture 大頭貼
 avatar 大頭貼
 bookmark 書籤
-admin 管理員 管管
-moderators 管理員 管管
+admin 管理員 / 管管 / 站務
+moderators 管理員 / 管管 / 站務
 email 電子郵件
 image 圖片
 photo 照片
@@ -67,7 +67,7 @@ domain 網域 / 域名 / 站點
 domain name 網域 / 域名
 sensitive 敏感內容 / 敏感
 filter 過濾器
-report 報告
+report 報告 / 檢舉報告
 review 審核
 role 角色
 mute 靜音
@@ -80,6 +80,7 @@ two-factor authentication 兩階段驗證
 recovery code 備用驗證碼
 disable 停用
 enable 啟用
+emoji 表情符號
 ```
 
 ## 常見不一致翻譯
