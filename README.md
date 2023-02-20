@@ -81,6 +81,7 @@ recovery code 備用驗證碼
 disable 停用
 enable 啟用
 emoji 表情符號
+suspend 停權
 ```
 
 ## 常見不一致翻譯
