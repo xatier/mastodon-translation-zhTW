@@ -53,6 +53,7 @@ photo 照片
 open 開啟
 new 新增
 add 新增
+create 新增
 news 最新消息
 appeal 申訴
 reject 駁回 / 回絕
@@ -63,8 +64,8 @@ social network 社群網路
 social media 社群媒體
 publisher 發行者
 server 伺服器
-domain 網域 / 域名 / 站點
-domain name 網域 / 域名
+domain 網域 / 站點
+domain name 網域
 sensitive 敏感內容 / 敏感
 filter 過濾器
 report 報告 / 檢舉報告
@@ -97,9 +98,19 @@ suspend 停權
 趨勢 -> 熱門趨勢
 頭像 -> 大頭貼
 帳戶 -> 帳號
+電子信箱 -> 電子郵件
 你 -> 您
 名單 -> 列表 (depends)
 個人資料 -> 個人檔案
+(verb) 了 -> 已 (verb)
+```
+
+助詞使用偏好
+
+```
+在 -> 於
+的 -> 之
+把 -> 將
 ```
 
 Note: [Elk](https://github.com/elk-zone/elk)
