@@ -111,6 +111,7 @@ suspend 停權
 在 -> 於
 的 -> 之
 把 -> 將
+馬上 -> 立即
 ```
 
 Note: [Elk](https://github.com/elk-zone/elk)
