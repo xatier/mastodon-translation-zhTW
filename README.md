@@ -41,6 +41,7 @@ public timeline 公開時間軸
 decentralized network 去中心化網路
 unlisted 不公開
 direct 私訊
+private mention 私訊
 profile 個人檔案
 profile picture 大頭貼
 avatar 大頭貼
