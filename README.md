@@ -84,6 +84,7 @@ disable 停用
 enable 啟用
 emoji 表情符號
 suspend 停權
+link 連結
 ```
 
 ## 常見不一致翻譯
@@ -104,6 +105,7 @@ suspend 停權
 名單 -> 列表 (depends)
 個人資料 -> 個人檔案
 (verb) 了 -> 已 (verb)
+鏈結 -> 連結
 ```
 
 助詞使用偏好
