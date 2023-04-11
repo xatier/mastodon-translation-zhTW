@@ -85,6 +85,7 @@ enable 啟用
 emoji 表情符號
 suspend 停權
 link 連結
+access 存取
 ```
 
 ## 常見不一致翻譯
