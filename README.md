@@ -86,6 +86,7 @@ emoji 表情符號
 suspend 停權
 link 連結
 access 存取
+media attachments 多媒體附加檔案
 ```
 
 ## 常見不一致翻譯
