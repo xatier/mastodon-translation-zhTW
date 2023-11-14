@@ -117,8 +117,11 @@ media attachments 多媒體附加檔案
 的 -> 之
 把 -> 將
 給 -> 將
+會 -> 將
 馬上 -> 立即
 從 -> 自
+和 -> 與
+來 -> 以
 ```
 
 Note: [Elk](https://github.com/elk-zone/elk)
