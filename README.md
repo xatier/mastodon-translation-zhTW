@@ -59,6 +59,7 @@ news 最新消息
 appeal 申訴
 reject 駁回 / 回絕
 approve 批准 / 核准
+approval 審核
 revoke 註銷
 account 帳號
 social network 社群網路
@@ -79,6 +80,8 @@ pin 釘選
 theme 佈景主題
 content warning 內容警告
 two-factor authentication 兩階段驗證
+security key 安全金鑰
+token token (保留原文不翻譯)
 recovery code 備用驗證碼
 disable 停用
 enable 啟用
