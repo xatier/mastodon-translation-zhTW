@@ -14,6 +14,7 @@
 post 嘟文 / 發嘟 / 嘟出去
 list 列表
 block 封鎖
+unblock 解除封鎖
 follow 跟隨
 following 跟隨中
 follower 跟隨者
@@ -74,6 +75,7 @@ report 報告 / 檢舉報告
 review 審核
 role 角色
 mute 靜音
+unmute 解除靜音
 announcement 公告
 visitor 訪客
 pin 釘選
@@ -120,6 +122,7 @@ media attachments 多媒體附加檔案
 的 -> 之
 把 -> 將
 給 -> 將
+讓 -> 使
 會 -> 將
 馬上 -> 立即
 從 -> 自
