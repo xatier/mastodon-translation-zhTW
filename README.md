@@ -16,6 +16,7 @@ list 列表
 block 封鎖
 unblock 解除封鎖
 follow 跟隨
+follows 跟隨中 / 正在跟隨
 following 跟隨中
 follower 跟隨者
 unfollow 取消跟隨
@@ -92,6 +93,7 @@ suspend 停權
 link 連結
 access 存取
 media attachments 多媒體附加檔案
+relationships (severed relationship) 服務關係 斷絕服務關係
 ```
 
 ## 常見不一致翻譯
