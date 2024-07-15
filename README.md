@@ -121,15 +121,17 @@ relationships (severed relationship) 服務關係 斷絕服務關係
 
 ```
 在 -> 於
+現在 -> 目前
 的 -> 之
 把 -> 將
-給 -> 將
+給 -> 將/至
 讓 -> 使
 會 -> 將
 馬上 -> 立即
 從 -> 自
 和 -> 與
 來 -> 以
+到 -> 至
 ```
 
 Note: [Elk](https://github.com/elk-zone/elk)
